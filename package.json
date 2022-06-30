@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "edge-js": "^18.4.0",
+    "edge-ps": "^0.1.0-pre"
+  }
+}
